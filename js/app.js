@@ -40,6 +40,12 @@ const LIST = [
         id: 8,
         nome: 'C3PO',
         avatar: 'images/c3po.png'
+    },
+
+      {
+        id: 9,
+        nome: 'Mestre Yoda',
+        avatar: 'images/yoda.png'
     } 
 
 ]
